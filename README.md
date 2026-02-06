@@ -1,4 +1,4 @@
-# *This project has been created as part of the 42 curriculum by mrazakam*
+# *This project has been created as part of the 42 curriculum by XXX*
 
 ## Description
 ft_printf is a 42 school project that consists of recreating the C standard library function printf. It handles formatted output, supports multiple format specifiers, and uses variadic functions to print data to standard output while returning the number of characters printed.
